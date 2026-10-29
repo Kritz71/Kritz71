@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="./assets/kritzy-banner.png"
+    src="./assets/kritzy71@gmail.com.png"
     alt="Kritzy — Computer Engineering, Code and Creativity"
     width="100%"
   />
