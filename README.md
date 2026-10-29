@@ -1,5 +1,13 @@
 
 <div align="center">
+  <img
+    src="./assets/kritzy-banner.png"
+    alt="Kritzy — Computer Engineering, Code and Creativity"
+    width="100%"
+  />
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:263D2B,50:718665,100:E8DDC4&height=200&section=header&text=Kritika%20Sharma&fontSize=42&fontColor=FFF8E9&fontAlignY=38&desc=computer%20engineering%20%7C%20code%20%26%20creativity&descAlignY=60&descSize=14" width="100%" />
 
