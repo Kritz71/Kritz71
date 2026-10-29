@@ -13,20 +13,9 @@
   <a href="https://www.linkedin.com/in/kritika-sharma-6880a724a/">LINKEDIN ↗</a>
 </div>
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:263D2B,50:718665,100:E8DDC4&height=200&section=header&text=Kritika%20Sharma&fontSize=42&fontColor=FFF8E9&fontAlignY=38&desc=computer%20engineering%20%7C%20code%20%26%20creativity&descAlignY=60&descSize=14" width="100%" />
-
-*𓍊𓋼𓍊 growing ideas, one project at a time 𓍊𓋼𓍊*
-
-</div>
-
----
-
 ## 🌿 `whoami` — a little about me
 
-Hello! I'm **Kritika Sharma**, a Computer Engineering student exploring the world of software, AI, and creative technology.
+Hello! I'm **Kritika Sharma**, a Computer Engineering student exploring the world of software, AI, and  technology.
 
 Think of this page as my little digital garden: a place where I grow my skills, experiment with ideas, and share the things I build.
 
