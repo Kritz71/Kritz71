@@ -51,11 +51,11 @@ An agricultural support concept focused on helping farmers access useful guidanc
 ## 🌱 `the growth journal`
 
 <div align="center">
-
+  
+  <img src="./profile/stats.svg" width="95%" alt="GitHub statistics" />
+  <br/>
+  <img src="./profile/top-langs.svg" width="95%" alt="Top programming languages" />
 </div>
-
----
-
 <div align="center">
 
 *little by little, effort continues.*
