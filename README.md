@@ -52,10 +52,6 @@ An agricultural support concept focused on helping farmers access useful guidanc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kritz71&show_icons=true&hide_border=true&bg_color=F7F2E7&title_color=405A40&icon_color=78936A&text_color=514A3E" width="95%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritz71&layout=compact&hide_border=true&bg_color=F7F2E7&title_color=405A40&text_color=514A3E" width="95%" alt="Top languages" />
-
 </div>
 
 ---
